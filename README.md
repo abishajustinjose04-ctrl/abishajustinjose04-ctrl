@@ -80,6 +80,26 @@ https://github.com/abishajustinjose04-ctrl/TravelMate-Holidays
 
 ---
 
+## 💼 Internship Experience
+
+### Full-Stack Development Intern — AgileInfo Tech
+
+During my internship at **AgileInfo Tech**, I gained practical experience in web development and worked with frontend and backend technologies.
+
+#### Key Experience
+
+* Developed and worked on web application interfaces using **HTML, CSS, and JavaScript**
+* Worked with frontend and backend development concepts
+* Practiced building and integrating web application features
+* Worked with APIs and backend communication
+* Improved understanding of application structure and development workflows
+* Gained practical experience in debugging and improving web applications
+* Worked on **TravelMate Holidays**, a travel-related web application
+
+This internship helped me strengthen my understanding of **full-stack development and real-world software development practices**.
+
+---
+
 ## 🌱 Currently Learning
 
 * Django
@@ -94,20 +114,10 @@ https://github.com/abishajustinjose04-ctrl/TravelMate-Holidays
 
 **Bachelor of Computer Science**
 
-St. Xavier's Catholic College of Engineering, Nagercoil
+**St. Xavier's Catholic College of Engineering, Nagercoil**
 
 **Expected Graduation:** 2028
 **CGPA:** 8.89
-
----
-
-## 💼 Experience
-
-### Full-Stack Development Internship
-
-**Agile INFI Tech**
-
-Gained hands-on experience in web development and full-stack application development while working with frontend and backend technologies.
 
 ---
 
@@ -115,7 +125,6 @@ Gained hands-on experience in web development and full-stack application develop
 
 * **UNICEF — Digital Productivity with AI** — Score: 100%
 * **IIT Bombay — Java Training** — Score: 80%
-* **PostgreSQL Training** — Score: 85%
 * **Simplilearn SkillUp — Computer Networking**
 * **Simplilearn SkillUp — Kali Linux Basics**
 
