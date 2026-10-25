@@ -1,82 +1,103 @@
-# 👋 Hi, I'm Abisha J.
+# Hi, I'm Abisha J. 👋
 
-### 🎓 Computer Science Student | 💻 Full-Stack Developer | 🐍 Python Enthusiast
+### 🎓 Computer Science Engineering Student | 💻 Aspiring Full-Stack Developer | 🐍 Python Enthusiast
 
-I'm a Computer Science student at **St. Xavier's Catholic College of Engineering, Nagercoil**, passionate about building practical software solutions and continuously improving my development skills.
+I'm a Computer Science and Engineering student at **St. Xavier's Catholic College of Engineering, Nagercoil**, passionate about building practical software solutions and continuously improving my programming and problem-solving skills.
 
-I enjoy working with **Python, web technologies, backend development, REST APIs, and databases**, and I like turning ideas into useful real-world applications.
+I enjoy exploring web development, backend technologies, REST APIs, and databases. I believe in learning by building projects, solving coding challenges, and improving through hands-on experience.
 
 ---
 
 ## 🚀 What I'm Working On
 
-* 🏙️ **CivicConnect** — Smart Public Complaint Management System
-* 🌐 Building full-stack web applications
-* 🔌 Developing and testing REST APIs
-* 🗄️ Working with PostgreSQL databases
-* 🌱 Currently learning **Django**
-* 💡 Improving my backend and full-stack development skills
+- 🎓 **SXCCE ExamPortal** — Smart Online Examination and Proctoring System
+- 🏙️ **CivicConnect AI** — Smart Public Complaint Management System
+- ✈️ **TravelMate Holidays** — Travel-focused web application
+- 🌐 Building full-stack web applications
+- 🔌 Developing and testing REST APIs
+- 🗄️ Working with relational databases
+- 🌱 Exploring Django and improving my backend development skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
+- Java
+- Python
+- C
+- JavaScript
 
-* Python
-* Java
-* C
-* JavaScript
+### 🎨 Frontend Development
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Vite
 
-### 🎨 Frontend
+### ⚙️ Backend Development
+- Java
+- Spring Boot
+- Python
+- Flask
+- REST APIs
 
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* Vite
+### 🗄️ Databases
+- MySQL
+- PostgreSQL
 
-### ⚙️ Backend & Database
-
-* Python
-* Flask
-* Node.js
-* PostgreSQL
-* REST APIs
-
-### 🛠️ Tools
-
-* Git
-* GitHub
-* Postman
-* Visual Studio Code
-* NetBeans
+### 🔧 Tools & Platforms
+- Git
+- GitHub
+- Apache Maven
+- Postman
+- Visual Studio Code
+- NetBeans
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🏙️ CivicConnect
+### 🎓 SXCCE ExamPortal — Smart Online Examination and Proctoring System
 
-**Smart Public Complaint Management System**
+An academic mini-project developed for the **Coding and Soft Skills Development** subject at St. Xavier's Catholic College of Engineering.
 
-A web-based platform that allows citizens to submit civic complaints, upload supporting images, track complaint progress, and connect with municipal departments through a centralized complaint management system.
+The application demonstrates how online examinations can be managed through a centralized platform, with separate interfaces for students and administrators.
+
+**Key Features**
+- Student and administrator login
+- Examination creation and question management
+- Timed online assessments
+- Automatic answer evaluation and score calculation
+- Basic browser tab-switch monitoring
+- Result management and answer review
+
+**Technologies:** Java • Spring Boot • MySQL • HTML • CSS • JavaScript • Apache Maven
+
+🔗 **Repository:** [SXCCE ExamPortal](https://github.com/abishajustinjose04-ctrl/sxcce-exam-portal)
+
+### 🏙️ CivicConnect AI — Smart Public Complaint Management System
+
+A web-based civic complaint management platform designed to help citizens submit complaints, upload supporting images, track complaint progress, and connect with municipal departments through a centralized system.
 
 **Technologies:** React.js • Flask • PostgreSQL • REST APIs
 
-🔗 **Repository:**
-https://github.com/abishajustinjose04-ctrl/CivicConnect-AI
-
----
+🔗 **Repository:** [CivicConnect AI](https://github.com/abishajustinjose04-ctrl/CivicConnect-AI)
 
 ### ✈️ TravelMate Holidays
 
-A travel-focused web application developed during my web development journey, providing users with an organized platform for exploring travel-related information.
+A travel-focused web application developed during my web development journey, providing users with an organized interface for exploring travel-related information.
 
 **Technologies:** HTML • CSS • JavaScript
 
-🔗 **Repository:**
-https://github.com/abishajustinjose04-ctrl/TravelMate-Holidays
+🔗 **Repository:** [TravelMate Holidays](https://github.com/abishajustinjose04-ctrl/TravelMate-Holidays)
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **2nd Prize — Karka Infini Bug Hunt:** Secured second prize in a college-level Python-based debugging competition conducted within a limited time. Selected to participate at the district level.
+- 💡 **Research Paper Presentation:** Presented a research paper on a Post-Quantum Intrusion Detection System at a college-level research paper presentation.
 
 ---
 
@@ -84,82 +105,76 @@ https://github.com/abishajustinjose04-ctrl/TravelMate-Holidays
 
 ### Full-Stack Development Intern — AgileInfo Tech
 
-During my internship at **AgileInfo Tech**, I gained practical experience in web development and worked with frontend and backend technologies.
+Gained practical exposure to web development and software development workflows during my internship.
 
-#### Key Experience
+**Key Learning Experiences**
+- Worked with HTML, CSS, and JavaScript to develop web interfaces.
+- Practised frontend and backend development concepts.
+- Explored API integration and communication between application components.
+- Improved debugging and problem-solving skills.
+- Worked on **TravelMate Holidays**, a travel-related web application.
+- Gained a better understanding of application structure and development workflows.
 
-* Developed and worked on web application interfaces using **HTML, CSS, and JavaScript**
-* Worked with frontend and backend development concepts
-* Practiced building and integrating web application features
-* Worked with APIs and backend communication
-* Improved understanding of application structure and development workflows
-* Gained practical experience in debugging and improving web applications
-* Worked on **TravelMate Holidays**, a travel-related web application
-
-This internship helped me strengthen my understanding of **full-stack development and real-world software development practices**.
+This experience helped me connect programming concepts with practical web development tasks and strengthened my interest in full-stack development.
 
 ---
 
 ## 🌱 Currently Learning
 
-* Django
-* Advanced Backend Development
-* REST API Development
-* Database Design
-* Full-Stack Web Development
+- Django and Python web development
+- Advanced Java and Spring Boot
+- REST API development
+- Data Structures and Algorithms
+- Database design and management
+- Full-stack application development
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Computer Science**
+**Bachelor of Engineering (B.E.) — Computer Science and Engineering**
 
-**St. Xavier's Catholic College of Engineering, Nagercoil**
+St. Xavier's Catholic College of Engineering, Nagercoil
 
-**Expected Graduation:** 2028
-**CGPA:** 8.89
+- **Expected Graduation:** 2028
+- **CGPA:** 8.89
 
 ---
 
 ## 📜 Certifications
 
-* **UNICEF — Digital Productivity with AI** — Score: 100%
-* **IIT Bombay — Java Training** — Score: 80%
-* **Simplilearn SkillUp — Computer Networking**
-* **Simplilearn SkillUp — Kali Linux Basics**
+- 🏅 **UNICEF — Digital Productivity with AI** — 100%
+- ☕ **IIT Bombay / EduPyramids — Java Training** — 80%
+- 🌐 **Simplilearn SkillUp — Computer Networking**
+- 🔐 **Simplilearn SkillUp — Kali Linux Basics**
+- 🗄️ **IIT Bombay / EduPyramids — PHP and MySQL Training**
 
 ---
 
-## 🔌 Development Interests
+## 💡 Development Interests
 
-I'm particularly interested in:
-
-* Full-Stack Web Development
-* Backend Development
-* REST API Development
-* Database Management
-* Python Development
-* Software Engineering
-* Building practical technology solutions
+- Full-Stack Web Development
+- Backend Development
+- Java and Python Programming
+- REST API Development
+- Database Management
+- Software Engineering
+- Debugging and Problem Solving
+- Building Practical Technology Solutions
 
 ---
 
 ## 📫 Connect With Me
 
-**LinkedIn:**
-https://www.linkedin.com/in/abisha-j04/
-
-**GitHub:**
-https://github.com/abishajustinjose04-ctrl
+- 💼 **LinkedIn:** [linkedin.com/in/abisha-j04](https://www.linkedin.com/in/abisha-j04/)
+- 🐙 **GitHub:** [github.com/abishajustinjose04-ctrl](https://github.com/abishajustinjose04-ctrl)
 
 ---
 
 ## 🎯 My Goal
 
-To continuously learn, build meaningful projects, and grow as a software developer by turning ideas into practical and useful solutions.
+To grow as a software developer by strengthening my technical foundation, solving real-world problems, collaborating with others, and building useful applications through continuous learning and hands-on experience.
 
----
-
-### 💡 Build. Learn. Improve. Repeat.
+### 💻 Build. Learn. Debug. Improve. Repeat. 🚀
 
 Thanks for visiting my profile! 😊
