@@ -1,184 +1,253 @@
 # Hi, I'm Abisha J. 👋
 
-### 🎓 Computer Science Engineering Student | 💻 Aspiring Full-Stack Developer | 🐍 Python Enthusiast
+### 🎓 Computer Science Engineering Student | 💻 Aspiring Software Developer | ☕ Java & Python Enthusiast
 
-I'm a Computer Science and Engineering student at **St. Xavier's Catholic College of Engineering, Nagercoil**, passionate about building practical software solutions and continuously improving my programming and problem-solving skills.
+I'm a third-year **B.E. Computer Science and Engineering student at St. Xavier's Catholic College of Engineering (SXCCE)**, with a CGPA of **8.89**.
 
-I enjoy exploring web development, backend technologies, REST APIs, and databases. I believe in learning by building projects, solving coding challenges, and improving through hands-on experience.
+I'm passionate about developing practical applications, exploring modern technologies, solving programming challenges, and building dependable software solutions.
 
----
+I enjoy working with Java, Spring Boot, React, Python, Flask, and relational databases while continuously expanding my full-stack development skills.
 
-🌐 **My Portfolio:** https://abisha-portfolio-woad.vercel.app/
-
----
-
-## 🚀 What I'm Working On
-
-- 🎓 **SXCCE ExamPortal** — Smart Online Examination and Proctoring System
-- 🏙️ **CivicConnect AI** — Smart Public Complaint Management System
-- ✈️ **TravelMate Holidays** — Travel-focused web application
-- 🌐 Building full-stack web applications
-- 🔌 Developing and testing REST APIs
-- 🗄️ Working with relational databases
-- 🌱 Exploring Django and improving my backend development skills
+🌐 **Portfolio:** https://abisha-portfolio-woad.vercel.app/
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-### 💻 Programming Languages
-- Java
-- Python
-- C
-- JavaScript
+- 🎓 Pursuing B.E. Computer Science and Engineering – SXCCE
+- 📊 CGPA: 8.89
+- 💻 Interested in Full-Stack and Backend Development
+- ☕ Exploring Java 17 and Spring Boot
+- 🐍 Working with Python and Flask
+- 🌐 Building responsive applications using React and Vite
+- 🏆 2nd Prize Winner – Karka Infini Bug Hunt
+- 🚀 CodeSprint '26 Prototype Round Shortlist
+- 💡 Smart India Hackathon – Round 2 Shortlist
+- 🌱 Always learning and building new things
 
-### 🎨 Frontend Development
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Vite
+---
 
-### ⚙️ Backend Development
-- Java
-- Spring Boot
-- Python
-- Flask
-- REST APIs
+## 🛠️ Technical Skills
 
-### 🗄️ Databases
-- MySQL
-- PostgreSQL
+**Programming Languages**
 
-### 🔧 Tools & Platforms
-- Git
-- GitHub
-- Apache Maven
-- Postman
-- Visual Studio Code
-- NetBeans
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frontend Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend Development**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+**Core Computer Science**
+
+- Object-Oriented Programming (OOP)
+- Data Structures
+- Database Management Systems (DBMS)
+- Operating Systems
+- Computer Networks
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🎓 SXCCE ExamPortal — Smart Online Examination and Proctoring System
+### 🎓 1. SXCCE ExamPortal
+**Smart Online Examination & Assessment Management System**
 
-An academic mini-project developed for the **Coding and Soft Skills Development** subject at St. Xavier's Catholic College of Engineering.
-
-The application demonstrates how online examinations can be managed through a centralized platform, with separate interfaces for students and administrators.
+An academic mini-project developed at St. Xavier's Catholic College of Engineering to streamline digital examination management.
 
 **Key Features**
-- Student and administrator login
-- Examination creation and question management
-- Timed online assessments
-- Automatic answer evaluation and score calculation
-- Basic browser tab-switch monitoring
-- Result management and answer review
+- Role-based student and administrator authentication.
+- Question bank management.
+- Timed online examinations.
+- Dynamic question navigation and randomized question ordering.
+- Automatic evaluation and grading.
+- Browser tab-switch monitoring.
 
-**Technologies:** Java • Spring Boot • MySQL • HTML • CSS • JavaScript • Apache Maven
+**Technologies:** Java 17, Spring Boot, Spring Data JPA, MySQL, HTML5, CSS3, JavaScript, Maven.
 
-🔗 **Repository:** [SXCCE ExamPortal](https://github.com/abishajustinjose04-ctrl/sxcce-exam-portal)
+🔗 [GitHub Repository](https://github.com/abishajustinjose04-ctrl/sxcce-exam-portal)
 
-### 🏙️ CivicConnect AI — Smart Public Complaint Management System
+### 🏙️ 2. CivicConnect AI
+**Smart Public Complaint Management System**
 
-A web-based civic complaint management platform designed to help citizens submit complaints, upload supporting images, track complaint progress, and connect with municipal departments through a centralized system.
+A smart civic complaint management platform developed for CodeSprint '26. The project was shortlisted for the Prototype Round.
 
-**Technologies:** React.js • Flask • PostgreSQL • REST APIs
+It aims to simplify public grievance management by allowing citizens to submit, categorize, and track complaints while helping administrators manage departmental assignments.
 
-🔗 **Repository:** [CivicConnect AI](https://github.com/abishajustinjose04-ctrl/CivicConnect-AI)
+**Key Features**
+- Citizen complaint submission.
+- Complaint categorization and location details.
+- Flask-based REST API.
+- PostgreSQL complaint management.
+- Administrative dashboard for complaint tracking.
+- Complaint status management.
 
-### ✈️ TravelMate Holidays
+**Technologies:** React.js, Vite, Python, Flask, PostgreSQL, Tailwind CSS, REST APIs.
 
-A travel-focused web application developed during my web development journey, providing users with an organized interface for exploring travel-related information.
+🔗 [GitHub Repository](https://github.com/abishajustinjose04-ctrl/CivicConnect-AI)
 
-**Technologies:** HTML • CSS • JavaScript
+### ✈️ 3. TravelMate Holidays
+**Travel & Tourism Web Application**
 
-🔗 **Repository:** [TravelMate Holidays](https://github.com/abishajustinjose04-ctrl/TravelMate-Holidays)
+A travel-focused web application developed during my web development internship and learning journey, featuring responsive interfaces for exploring travel destinations and holiday packages.
+
+**Key Features**
+- Responsive destination gallery.
+- Travel packages and itineraries showcase.
+- Interactive booking inquiry interface.
+- Form validation.
+- Responsive layouts using CSS Flexbox and Grid.
+
+**Technologies:** HTML5, CSS3, JavaScript, Git.
 
 ---
 
 ## 🏆 Achievements
 
-- 🥈 **2nd Prize — Karka Infini Bug Hunt:** Secured second prize in a college-level Python-based debugging competition conducted within a limited time. Selected to participate at the district level.
-- 💡 **Research Paper Presentation:** Presented a research paper on a Post-Quantum Intrusion Detection System at a college-level research paper presentation.
+🥈 **Karka Infini Bug Hunt – 2nd Prize**
+
+Secured second prize in a college-level Python debugging competition conducted under strict time constraints. Qualified for the district-level round.
+
+🚀 **CodeSprint '26 – Prototype Round Shortlist**
+
+Developed CivicConnect AI, a smart public complaint management system, and advanced to the prototype presentation stage.
+
+💡 **Smart India Hackathon – Round 2 Shortlist**
+
+Successfully cleared the college-level preliminary screening and qualified for Round 2 at the institutional level.
+
+📄 **Research Paper Presentation**
+
+Presented a research paper on **Post-Quantum Intrusion Detection System**, exploring cybersecurity and intrusion detection mechanisms in the context of quantum computing threats.
 
 ---
 
 ## 💼 Internship Experience
 
-### Full-Stack Development Intern — AgileInfo Tech
+### Development Intern – Agileinfo Techytern Solutions LLP
 
-Gained practical exposure to web development and software development workflows during my internship.
+📅 13 June 2026 – 13 July 2026
 
-**Key Learning Experiences**
-- Worked with HTML, CSS, and JavaScript to develop web interfaces.
-- Practised frontend and backend development concepts.
-- Explored API integration and communication between application components.
+Participated in a software development internship focused on frontend and full-stack development.
+
+**Learning & Contributions**
+- Developed responsive web interfaces using HTML5, CSS3, and JavaScript.
+- Worked on the TravelMate Holidays web application.
+- Practised modular frontend development.
+- Explored responsive design and cross-browser compatibility.
+- Participated in development activities and code reviews.
 - Improved debugging and problem-solving skills.
-- Worked on **TravelMate Holidays**, a travel-related web application.
-- Gained a better understanding of application structure and development workflows.
-
-This experience helped me connect programming concepts with practical web development tasks and strengthened my interest in full-stack development.
-
----
-
-## 🌱 Currently Learning
-
-- Django and Python web development
-- Advanced Java and Spring Boot
-- REST API development
-- Data Structures and Algorithms
-- Database design and management
-- Full-stack application development
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Engineering (B.E.) — Computer Science and Engineering**
+**Bachelor of Engineering – Computer Science and Engineering**
 
-St. Xavier's Catholic College of Engineering, Nagercoil
+St. Xavier's Catholic College of Engineering, Kanyakumari, Tamil Nadu.
 
-- **Expected Graduation:** 2028
-- **CGPA:** 8.89
+- Expected Graduation: 2028
+- CGPA: 8.89
+
+**Higher Secondary & SSLC**
+
+St. Ursula's Girls Higher Secondary School
+
+- 12th Grade: 92%
+- 10th Grade: 94%
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 **UNICEF — Digital Productivity with AI** — 100%
-- ☕ **IIT Bombay / EduPyramids — Java Training** — 80%
-- 🌐 **Simplilearn SkillUp — Computer Networking**
-- 🔐 **Simplilearn SkillUp — Kali Linux Basics**
-- 🗄️ **IIT Bombay / EduPyramids — PHP and MySQL Training**
+1. ☕ **Java Programming Certification** – EduPyramids / SINE, IIT Bombay (80%)
+2. 🤖 **Digital Productivity with AI** – UNICEF Learning Initiative
+3. 🗄️ **PostgreSQL / RDBMS Practical Training** – St. Xavier's Catholic College of Engineering
+4. 🌐 **PHP & MySQL Training** – SWAYAM Plus / EduPyramids / SINE, IIT Bombay
+5. 💻 **PHP Web Certification** – Simplilearn
+6. 📈 **Digital Marketing Course** – Alo Info-tech Private Limited
 
 ---
 
-## 💡 Development Interests
+## 🌱 Currently Exploring
 
+- Advanced Java and Spring Boot
 - Full-Stack Web Development
-- Backend Development
-- Java and Python Programming
+- React and Modern Frontend Development
+- Python and Flask
 - REST API Development
-- Database Management
-- Software Engineering
-- Debugging and Problem Solving
-- Building Practical Technology Solutions
+- Database Design and Optimization
+- Data Structures and Algorithms
+- Cybersecurity and Post-Quantum Defense
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abishajustinjose04-ctrl&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abishajustinjose04-ctrl&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abishajustinjose04-ctrl&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/abisha-j04](https://www.linkedin.com/in/abisha-j04/)
-- 🐙 **GitHub:** [github.com/abishajustinjose04-ctrl](https://github.com/abishajustinjose04-ctrl)
+<p align="left">
+<a href="https://linkedin.com/in/abisha-j04">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/abishajustinjose04-ctrl">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://abisha-portfolio-woad.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+</p>
+
+📧 Email: abishajustinjose04@gmail.com
+
+📍 Kanyakumari, Tamil Nadu, India
 
 ---
 
 ## 🎯 My Goal
 
-To grow as a software developer by strengthening my technical foundation, solving real-world problems, collaborating with others, and building useful applications through continuous learning and hands-on experience.
+To become a skilled software developer by continuously learning, strengthening my technical foundation, participating in challenging opportunities, and building practical applications that solve real-world problems.
 
-### 💻 Build. Learn. Debug. Improve. Repeat. 🚀
+<p align="center">
+  <b>💻 Build. Learn. Debug. Improve. Repeat. 🚀</b>
+</p>
 
-Thanks for visiting my profile! 😊
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile! 
+</p>
